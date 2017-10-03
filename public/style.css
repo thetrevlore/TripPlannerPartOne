@@ -1,7 +1,7 @@
 * {
     box-sizing: border-box;
 }
-  
+
 body {
     margin: 0;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -9,6 +9,10 @@ body {
 }
 
 #map {
-    height: 100vh;
+    height: 80vh;
     width: 100vw;
+}
+
+.navbar {
+    background-color: gray;
 }
